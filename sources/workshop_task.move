@@ -1,4 +1,4 @@
-module 0x0::tanta;
+module 0x0::kennedy;
 use std::string::String;
 
 public struct Student has key {
